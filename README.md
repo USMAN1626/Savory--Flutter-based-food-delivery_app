@@ -46,7 +46,7 @@ The app uses Firebase Firestore to store user information and manage orders effi
 
    --->  **Firestore Data Screenshots**
 
-<img src="https://github.com/user-attachments/assets/2e560097-d799-470e-9c0e-9e33d49a0f2c" width="250"  height="500" /> 
-<img src="https://github.com/user-attachments/assets/6a900ec0-6ca0-4d93-9fbb-e6745bd4f501" width="250"  height="500"/> 
+<img src="https://github.com/user-attachments/assets/2e560097-d799-470e-9c0e-9e33d49a0f2c" width="250"  height="250" /> 
+<img src="https://github.com/user-attachments/assets/6a900ec0-6ca0-4d93-9fbb-e6745bd4f501" width="250"  height="250"/> 
 <img src="https://github.com/user-attachments/assets/93a5c629-940d-46df-8556-68e1f31816c9" width="250"  height="500"/> 
 <img src="https://github.com/user-attachments/assets/27eb88a3-9275-48a7-951d-5c4b410b52fe" width="250"  height="500"/>
