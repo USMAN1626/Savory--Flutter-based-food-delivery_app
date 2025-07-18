@@ -1,25 +1,5 @@
-  -->   **Food Delivery App**
+  -->   **Savory  ( Food Delivery App)**
 The Food Delivery App is a beautifully designed Flutter application with an amazing UI/UX, vibrant colors, and smooth user experience. It includes:
-
-Authentication: Login, Signup, and Forgot Password functionality with user data stored in Firebase Firestore.
-Food Categories: Items are divided into categories like Foods, Drinks, and Snacks for easy browsing.
-Favorites: Users can mark their favorite food items.
-Ordering System:
-Prices are displayed for all food items.
-Users can order food using Card Payment or Cash on Delivery.
-A Cart section displays all added items for delivery.
-The app efficiently manages orders, including quantity and type.
-
-Getting Started
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-Lab: Write your first Flutter app
-Cookbook: Useful Flutter samples
-For help getting started with Flutter development, view the
-online documentation, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
   **Output Video**
 
@@ -44,6 +24,25 @@ https://github.com/user-attachments/assets/6cd777e5-682f-441e-b23c-b3ec60d70faa
 <img src="https://github.com/user-attachments/assets/f50a9b57-908f-4cb8-ae02-27933e61912d" width="250" height="500" />
 <img src="https://github.com/user-attachments/assets/14a4c7da-6168-4332-b6e7-733d4998a388" width="250" height="500" />
 <img src="https://github.com/user-attachments/assets/c3362800-e20a-4fb4-bc2f-2e5d957a4293" width="250" height="500" />
+
+
+
+
+Authentication: Login, Signup, and Forgot Password functionality with user data stored in Firebase Firestore.
+
+Food Categories: Items are divided into categories like Foods, Drinks, and Snacks for easy browsing.
+
+Favorites: Users can mark their favorite food items.
+
+Ordering System:
+
+Prices are displayed for all food items.
+
+Users can order food using Card Payment or Cash on Delivery.
+
+A Cart section displays all added items for delivery.
+
+The app efficiently manages orders, including quantity and type.
 
 
 🔥 Firebase Integration
